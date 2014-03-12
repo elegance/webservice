@@ -1,0 +1,25 @@
+#.project
+#.classpath
+.settings/
+
+.springBeans
+.metadata
+bin/
+.loadpath
+target/
+*.class
+tmp/
+
+*.tmp
+*.bak
+*.log
+*.swp
+*~.nib
+local.properties
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
